@@ -1,4 +1,4 @@
 module.exports = {
-    title: 'Hello VuePress',
+    title: 'Blogs',
     description: 'Just playing around'
 }
